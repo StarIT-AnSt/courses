@@ -63,3 +63,12 @@ https://docs.microsoft.com/ru-ru/dotnet/core/tools/dotnet-publish
 https://docs.microsoft.com/ru-ru/dotnet/core/deploying/deploy-with-cli
 https://docs.microsoft.com/ru-ru/dotnet/core/rid-catalog
 https://docs.microsoft.com/ru-ru/dotnet/standard/frameworks
+
+## Седьмое занятие. Почти полный жизненый цикл решения
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/V3wUVduJ9mE) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+
+Попытка воспроизвести почти полный жизненный цикл решения: создание решения, добавление проектов, тестирование, форматирование, запуск и публикация.
+
+https://kent-boogaart.com/blog/editorconfig-reference-for-c-developers
+https://github.com/anst-foto/code_styles
+
