@@ -8,7 +8,7 @@
 
 Проверка форматирования кода `C#` с использованием `GitHub Actions`
 
-Репозиторий с тестовым проектом - https://github.com/anst-foto/checking-format
+Репозиторий с тестовым проектом - https://github.com/StarIT-AnSt/checking-format
 
 - Сайт проекта EditorConfig - https://editorconfig.org/
 - Code formatting for C# projects: dotnet format + GitHub Actions - https://dev.to/felipetofoli/code-formatting-for-c-projects-dotnet-format-github-actions-54p8
