@@ -1,5 +1,15 @@
 # Курсы и открытые уроки [Старинина Андрея](http://старинин.рф/) [@anst-foto](https://github.com/anst-foto)
 
+## [DevOps](devops.md)
+
+Набор уроков по CI/CD
+
+[Подробнее о курсе](devops.md)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9PXvskH7ctLBqRpnmy_uvA) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/194871)
+
+***
+
 ## [.Шаги к пониманию паттернов проектирования.](it_step_to_design_patterns.md)
 
 Небольшой курс для начала понимания паттернов проектирования в ООП на примере C#
