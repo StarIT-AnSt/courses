@@ -17,3 +17,11 @@
 - Видео по использованию `dotnet format` - https://github.com/StarIT-AnSt/courses/blob/main/dotnet_cli.md#пятое-занятие-форматирование-кода
 - Сервис по созданию файлов `.gitignore` - https://www.toptal.com/developers/gitignore/
 - Сервис по проверке code style - https://www.codefactor.io
+
+## Генераторы .gitignore и .gitattributes
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/5Uto9i3e8yE) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/1690d9d6a71a6202f0fab0de47bf391c/) 
+
+Очень краткий обзор генераторов .gitignore и .gitattributes
+
+Генератор .gitignore - https://www.toptal.com/developers/gitignore/
+Генератор .gitattributes - https://www.richie-bendall.ml/gitattributes-generator/
