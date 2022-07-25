@@ -1,4 +1,4 @@
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # DevOps
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9PXvskH7ctLBqRpnmy_uvA) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/194871)
@@ -23,5 +23,7 @@
 
 Очень краткий обзор генераторов `.gitignore` и `.gitattributes`
 
-- Генератор .gitignore - https://www.toptal.com/developers/gitignore/
-- Генератор .gitattributes - https://www.richie-bendall.ml/gitattributes-generator/
+- Генератор .gitignore - https://www.toptal.com/developers/gitignore/ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toptal/gitignore.io)
+- Генератор .gitattributes - https://www.richie-bendall.ml/gitattributes-generator/ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexkaratarakis/gitattributes)
+
+https://htmlacademy.ru/blog/articles/konec-stroki
