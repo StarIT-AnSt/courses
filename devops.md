@@ -23,5 +23,5 @@
 
 Очень краткий обзор генераторов `.gitignore` и `.gitattributes`
 
-Генератор .gitignore - https://www.toptal.com/developers/gitignore/
-Генератор .gitattributes - https://www.richie-bendall.ml/gitattributes-generator/
+- Генератор .gitignore - https://www.toptal.com/developers/gitignore/
+- Генератор .gitattributes - https://www.richie-bendall.ml/gitattributes-generator/
