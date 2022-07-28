@@ -113,6 +113,13 @@ https://github.com/AvaloniaUtils/Material.Icons.Avalonia
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/MWzug1t9ZQ0) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/84a5684d5b7f38a03b7b9a848b43d759/)
 
+### Часть 6.2
+Начало реализации ViewModel и начало рефакторинга библиотеки уровня данных.  Добавили диалоговое окно для создания файла.
+
+*С проведением были проблемы из-за "синего экрана смерти" на моём ноутбуке. Поэтому видео склеено кое-как из двух записей.*
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/YdYiKC1P0bg) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+
 ***
 
 ## .Девятый шаг.
