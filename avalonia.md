@@ -29,6 +29,6 @@
 
 ## Контейнеры
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/1zqZT_0EKQM) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/1zqZT_0EKQM) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/dccf1e57f5893943e032a9099d412327/)
 
 Краткий разбор контейнеров XAML в AvaloniaUI: `Panel`, `DockPanel`, `StackPanel`, `WrapPanel`, `Grid`, `Canvas`
