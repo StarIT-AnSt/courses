@@ -20,3 +20,12 @@
 Небольшое знакомство с Avalonia - фреймворком .NET XAML, установка и настройка IDE
 
 ***
+
+## Знакомство с XAML
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/vMTPPUEruNM) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/89cc0b148ef130ecabc9679bd57240dd/)
+
+Краткий обзор из чего состоит проект приложения на Avalonia.
+Краткое знакомство с XAML.
+
+***
