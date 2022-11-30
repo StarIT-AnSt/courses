@@ -34,7 +34,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/L7PM4y-p8M0) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/fa86620911c4b63a60ee1db8b51a9059/)
 
-Краткий обзор из чего состоит проект приложения на Avalonia.
-Краткое знакомство с XAML.
+Кратко познакомились с контейнерами. Немного разобрали Panel, StackPanel, DockPanel, WrapPanel и Grid.
 
 ***
