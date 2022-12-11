@@ -14,7 +14,7 @@
 
 ## Занятие 2. Принцип открытости/закрытости
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/OpenClosedPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Zp8SOArmVxs) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/OpenClosedPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Zp8SOArmVxs) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/4fe89f262028a2012732ed8ed9e76c46/)
 
 P.S. Сегодня кто-то решил сорвать проведение этого занятия. Чтобы подобного больше не было у меня есть несколько вариантов:
 - использовать другую платформу для проведения конференций, чтобы я мог управлять доступами участников.
@@ -27,6 +27,6 @@ P.P.S. И сейчас вспомнил, что из-за проблем на з
 
 ## Занятие 3. Принцип подстановки Лисков
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/LiskovSubstitutionPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/QzKyoYbeg8Y) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/LiskovSubstitutionPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/QzKyoYbeg8Y) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/ad495678d08e2a78b2d00c06d1f65ea6/)
 
 Разобрали что за принцип такой "подстановки Лисков". Немного прошлись по приниципу открыточти/закрытости и единственной ответственности. Нашли зависимость принципов друг от друга. Обсудили ка не нужно писать/проектировать.
