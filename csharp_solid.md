@@ -2,10 +2,31 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9GVc1ANXGQP-bdlHuAa1OO) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/234911)
 
-В данном курсе узучим создание графических приложений (GUI) с использованием C# в Linux
+В данном курсе узучим основы приницов SOLID на примере C#
 
 ## Занятие 1. Принцип единственной ответственности
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/SingleResponsibilityPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/jg8CWtDkLg8) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/fa3a3a924ca0d26c09f8324c28604036/)
 
 Разобрали на простом примере первый принцип SOLID - принцип единственной ответственности.
+
+***
+
+## Занятие 2. Принцип открытости/закрытости
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/OpenClosedPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Zp8SOArmVxs) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+
+P.S. Сегодня кто-то решил сорвать проведение этого занятия. Чтобы подобного больше не было у меня есть несколько вариантов:
+- использовать другую платформу для проведения конференций, чтобы я мог управлять доступами участников.
+- рассылать ссылки только подтвердившим участникам занятия.
+Пока думаю какой мне больше подойдёт.
+
+P.P.S. И сейчас вспомнил, что из-за проблем на занятии немного не туда ушёл... Забыл показать какие ещё бывают способы расширения с нарушением принципа открытости-закрытости.
+
+***
+
+## Занятие 3. Принцип подстановки Лисков
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/LiskovSubstitutionPrinciple.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/QzKyoYbeg8Y) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
+
+Разобрали что за принцип такой "подстановки Лисков". Немного прошлись по приниципу открыточти/закрытости и единственной ответственности. Нашли зависимость принципов друг от друга. Обсудили ка не нужно писать/проектировать.
