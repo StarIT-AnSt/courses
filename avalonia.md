@@ -62,7 +62,11 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/AvaloniaDemo_3.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Bs1ug-EELFw) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/8868af6838dc19d3393f50b60c620187/)
 
-### Стили. Часть 2. Горячие клавиши
+### События. Часть 2. Горячие клавиши
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/AvaloniaDemo_3.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/tx39vk25rY0) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/3ebd087133833058a3d0c7c7eaf67165/)
+
+### События. Часть 3. Команды
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/AvaloniaDemo_3.git) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)]()
 
