@@ -1,5 +1,15 @@
 # Курсы и открытые уроки [Старинина Андрея](http://старинин.рф/) [@anst-foto](https://github.com/anst-foto)
 
+## [Как работать с Git](git.md)
+
+Курс с открытыми занятиями по `git`.
+
+[Подробнее о курсе](git.md)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9YlkHrpFq6xL9TrHQzSx8s) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/256633) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+FzMD0OvI49FhZWFi)
+
+***
+
 ## [Avalonia](avalonia.md)
 
 Курс по Avalonia - https://avaloniaui.net
