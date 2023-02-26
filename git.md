@@ -30,9 +30,9 @@
 
 ## Занятие 4.
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/FaCGV3RojDo) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/00b835d961beea7d668536c3e54496b1/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/FaCGV3RojDo) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/00b835d961beea7d668536c3e54496b1/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/test_command_work_1.git)
 
-Создали [общий репозиторий](https://github.com/StarIT-AnSt/test_command_work_1/invitations), подключили к нему другого разработчика, поработали с ветками, поработали с запросами на слияние (pull request).
+Создали [общий репозиторий](https://github.com/StarIT-AnSt/test_command_work_1.git), подключили к нему другого разработчика, поработали с ветками, поработали с запросами на слияние (pull request).
 
 [Правила полета на Git](https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md) - https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md
 
