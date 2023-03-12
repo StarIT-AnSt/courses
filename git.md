@@ -46,4 +46,14 @@
 
 Создали [общий репозиторий](https://github.com/StarIT-AnSt/test_command_work_2.git), сделали форк репозитория, создали запрос на слияние из форка. Обсудили какие бывают [варианты командной работы](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
+### Часть 3.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/nL28gSsoyfU) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/4aab926793f049353c90c9ae02afa484/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StarIT-AnSt/test_command_work_3.git)
+
+Создали [общий репозиторий](https://github.com/StarIT-AnSt/test_command_work_3.git), инициализировали репозиторий с git flow, поработали с ветками (фичи и релиза), создали релиз.
+
+Материалы по работе с git flow:
+- https://www.atlassian.com/ru/git/tutorials/comparing-workflows/gitflow-workflow
+- https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html
+
 ***
