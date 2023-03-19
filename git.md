@@ -57,3 +57,15 @@
 - https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html
 
 ***
+
+## Занятие 5.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Cf6q53n80Kw) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/35b5a41020a69da5e1f443783063bc98/)
+
+Создали репозиторий. Понаделали коммитов, попробовали отменить коммит через `git reset --hard`. Потом попробовали отменить отмену коммита (восстановить отменённый коммит) через создание новой ветки из отменённого коммита. Попробовали использовать `git revert` для сохранения историй отмены.
+
+Материалы:
+- https://ru.stackoverflow.com/questions/431520/Как-вернуться-откатиться-к-более-раннему-коммиту
+- https://www.atlassian.com/ru/git/tutorials/undoing-changes
+- https://habr.com/ru/company/skillbox/blog/534972/
+- https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md#Я-случайно-сделал-жесткий-сброс---hard-и-теперь-хочу-вернуть-свои-изменения
