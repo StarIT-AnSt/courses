@@ -69,3 +69,40 @@
 - https://www.atlassian.com/ru/git/tutorials/undoing-changes
 - https://habr.com/ru/company/skillbox/blog/534972/
 - https://github.com/k88hudson/git-flight-rules/blob/master/README_ru.md#Я-случайно-сделал-жесткий-сброс---hard-и-теперь-хочу-вернуть-свои-изменения
+
+***
+
+## Занятие 6.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/wdao44tnfUI) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/e832ef5b2b2a8a1afc9e0b138354acce/)
+
+Создали репозиторий. Разобрали немного теории git hooks, попробовали сделать простейший хук.
+
+Материалы:
+- https://git-scm.com/book/ru/v2/Настройка-Git-Хуки-в-Git
+- https://www.atlassian.com/ru/git/tutorials/git-hooks
+- https://habr.com/ru/companies/dins/articles/584562/
+- https://xakep.ru/2016/02/11/git-hook-magic/
+
+***
+
+## Занятие 7.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/z3A4J_vu7fM) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/13452e1510853cc688d7260abfd31fbf/)
+
+Разобрали зачем нужны .gitattributes и .gitignore
+
+Материалы:
+- https://www.youtube.com/watch?v=V3z80lCvHJo
+- https://radioprog.ru/post/1401
+
+Репозитории с шаблонными файлами:
+- https://github.com/alexkaratarakis/gitattributes
+- https://github.com/github/gitignore
+
+Сервисы для создания .gitattributes и .gitignore:
+- https://www.richie-bendall.ml/gitattributes-generator/
+- https://gitattributes.io/
+- https://www.toptal.com/developers/gitignore
+
+***
