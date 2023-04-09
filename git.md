@@ -90,7 +90,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/z3A4J_vu7fM) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/13452e1510853cc688d7260abfd31fbf/)
 
-Разобрали зачем нужны .gitattributes и .gitignore
+Разобрали зачем нужны `.gitattributes` и `.gitignore`
 
 Материалы:
 - https://www.youtube.com/watch?v=V3z80lCvHJo
