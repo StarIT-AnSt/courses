@@ -106,3 +106,18 @@
 - https://www.toptal.com/developers/gitignore
 
 ***
+
+## Занятие 8.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Mef9MY717Jk) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/a7c389afea447ffdfbae666498065152/)
+
+Установили и немного поработали с некоторыми  GUI git-клиентами: GitHub Desktop, SourceTree, GitKraken.
+
+Материалы:
+- https://git-scm.com/download/gui/windows
+
+GitHub Desktop - https://desktop.github.com/
+SourceTree - https://www.sourcetreeapp.com/
+GitKraken - https://www.gitkraken.com/
+
+***
