@@ -116,8 +116,9 @@
 Материалы:
 - https://git-scm.com/download/gui/windows
 
-GitHub Desktop - https://desktop.github.com/
-SourceTree - https://www.sourcetreeapp.com/
-GitKraken - https://www.gitkraken.com/
+
++ GitHub Desktop - https://desktop.github.com/
++ SourceTree - https://www.sourcetreeapp.com/
++ GitKraken - https://www.gitkraken.com/
 
 ***
