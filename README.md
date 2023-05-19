@@ -40,16 +40,6 @@
 
 ***
 
-## [.Шаги к пониманию паттернов проектирования.](it_step_to_design_patterns.md)
-
-Небольшой курс для начала понимания паттернов проектирования в ООП на примере C#
-
-[Подробнее о курсе](it_step_to_design_patterns.md)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9L_TWWSfwIefSdwjXkCihC) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/84608) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+FzMD0OvI49FhZWFi)
-
-***
-
 ## [DOTNET CLI](dotnet_cli.md)
 
 Небольшой курс по работе с [`dotnet cli`](https://docs.microsoft.com/ru-ru/dotnet/core/tools/)
