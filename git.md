@@ -117,3 +117,11 @@
 - https://git-scm.com/download/gui/windows
 
 ***
+
+## Занятие 9.
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Z0z1Vi2_B0s) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/video/8e2fc7eed448e6c5645fa10732349ab2/)
+
+Разобрали как исправлять конфликты при слиянии. Также рассмотрели различные сценарии когда конфликты могут возникать и как их можно избежать.
+
+***
