@@ -4,21 +4,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po8YT-w8Sya0x_2wT-2eSpUl)
 
-## Открытое занятие. Командная строка в Windows. Работа с git в командной строке. 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/tBbKGTeiWx0)
-
-Мы немного коснёмся что такое командная строка, для чего она нужна и как её применять разработчикам в Windows. После этого поработаем с git через командную строку. Время занятия примерно 3 часа, может больше или меньше.
-
-PowerShell
-- https://habr.com/ru/company/ruvds/blog/487876/
-- https://ru.wikipedia.org/wiki/PowerShell
-- https://docs.microsoft.com/ru-ru/powershell/scripting/overview?view=powershell-7
-
-Git
-- https://git-scm.com/
-- https://git-scm.com/book/ru/v2
-- https://www.atlassian.com/ru/git/tutorials/undoing-changes
-
 ## Основы Git.
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/AfZNsxuai58)
 
